@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src=".github/jobscalc.png" width="100%">
+  <img alt="dev.finances" src="github/jobscalc.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -43,7 +43,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](github/LICENSE.md) para mais detalhes.
 
 ---
 
